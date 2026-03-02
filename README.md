@@ -20,7 +20,7 @@ Your personal AI assistant for MBA coursework. Upload your course materials and 
 
 ## Quick Start (For Students)
 
-### Step 1: Get API Keys (5 minutes)
+### Step 1: Get API Keys 
 
 The copilot requires keys from both OpenAI and Pinecone.
 
