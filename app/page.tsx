@@ -630,7 +630,7 @@ export default function Home() {
               <Menu className="w-5 h-5 text-slate-600" />
             </button>
             <div className="flex-1">
-              <h1 className="text-xl font-semibold text-slate-800">MBA Copilot</h1>
+              <h1 className="text-xl font-semibold text-slate-800">MSBA Copilot</h1>
               <div className="flex items-center gap-3">
                 <p className="text-sm text-slate-500 hidden sm:block">
                   Searching {searchScope}
@@ -687,7 +687,7 @@ export default function Home() {
               <div className="max-w-2xl mx-auto text-center py-8 sm:py-12">
                 <Sparkles className="w-12 h-12 mx-auto mb-4 text-columbia-500" />
                 <h2 className="text-2xl font-semibold text-slate-800 mb-2">
-                  Welcome to MBA Copilot
+                  Welcome to MSBA Copilot
                 </h2>
                 <p className="text-slate-600 mb-8">
                   Upload your course materials and ask questions. I&apos;ll help you understand
