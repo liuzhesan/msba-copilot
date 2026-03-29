@@ -45,7 +45,7 @@ export default function SignInPage() {
         </div>
 
         <h1 className="text-2xl font-semibold text-center text-slate-800 mb-2">
-          Welcome to MBA Copilot
+          Welcome to MSBA Copilot
         </h1>
         <p className="text-slate-500 text-center mb-6">
           Sign in to continue
