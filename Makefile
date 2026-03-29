@@ -1,5 +1,5 @@
 # ==============================================================================
-# MBA Copilot - uv-based Makefile
+# MSBA Copilot - uv-based Makefile
 # ==============================================================================
 #
 # This Makefile manages Python environments and dependencies using uv,
