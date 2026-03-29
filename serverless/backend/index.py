@@ -1,4 +1,4 @@
-"""MBA Copilot - FastAPI Backend.
+"""MSBA Copilot - FastAPI Backend.
 
 A RAG-powered document Q&A system for MBA students.
 """
@@ -33,7 +33,7 @@ if TYPE_CHECKING:
 # App
 # =============================================================================
 load_dotenv()
-app = FastAPI(title="MBA Copilot API", root_path="/backend")
+app = FastAPI(title="MSBA Copilot API", root_path="/backend")
 
 app.add_middleware(
     CORSMiddleware,
