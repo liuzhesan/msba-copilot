@@ -1,6 +1,6 @@
-# MBA Copilot
+# MSBA Copilot
 
-Your personal AI assistant for MBA coursework. Upload your course materials and chat with them using RAG (Retrieval-Augmented Generation).
+Your personal AI assistant for MSBA coursework. Upload your course materials and chat with them using RAG (Retrieval-Augmented Generation).
 
 **Stack:** Next.js + Python (FastAPI) + Pinecone + OpenAI
 
