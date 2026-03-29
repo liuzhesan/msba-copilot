@@ -67,7 +67,7 @@ If you need to generate a new key, follow the steps below:
 ### Step 2: Fork the Repository
 
 1. Create a github account
-2. Go to the [MBA Copilot GitHub repository](https://github.com/malekbensliman/mba-copilot)
+2. Go to the [MSBA Copilot GitHub repository](https://github.com/liuzhesan/msba-copilot)
 3. Click the **"Fork"** button in the top right
 4. This creates your own copy of the project
 
@@ -78,7 +78,7 @@ In the Pinecone console:
 1. Click **"Database"** on the left side panel
 2. Click **"Create Index"**
 3. Configure the index:
-   - **Name:** `mba-copilot`
+   - **Name:** `msba-copilot`
    - **Model:** `text-embedding-3-large`
    - **Dimensions:** `1024`
    - **Metric:** `cosine`
@@ -96,7 +96,7 @@ Visit <a href="https://generate-secret.vercel.app/32" target="_blank">generate-s
 
 Pick a memorable password for accessing your copilot. You'll share this with anyone you want to give access (classmates, study group members, etc.).
 
-**Example:** `mba-copilot-2024` or `columbia-rag-spring`
+**Example:** `msba-copilot-2024` or `columbia-rag-spring`
 
 ### Step 6: Deploy to Vercel
 
@@ -148,10 +148,10 @@ Vercel Blob storage is used as temporary storage for large files during upload. 
 1. Go to your Vercel project dashboard
 2. Click **"Storage"** tab in the top navigation
 3. Click **"Create Database"** → Select **"Blob"**
-4. Choose a name (e.g., `mba-copilot-files`)
+4. Choose a name (e.g., `msba-copilot-files`)
 5. Click **"Create"**
 6. Click **"Connect to Project"**
-7. Select your `mba-copilot` project
+7. Select your `msba-copilot` project
 8. Click **"Connect"**
 9. Return to your Vercel project
 10. Click **"Settings"** tab in the top navigation
