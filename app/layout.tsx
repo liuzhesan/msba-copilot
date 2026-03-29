@@ -6,7 +6,7 @@ import SessionProvider from './components/SessionProvider';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata: Metadata = {
-  title: 'MBA Copilot',
+  title: 'MSBA Copilot',
   description: 'Your personal AI assistant for MBA coursework',
 };
 
