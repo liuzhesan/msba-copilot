@@ -245,7 +245,7 @@ nuke: clean
         clean nuke help
 
 help:
-	@echo -e "${WHITE}MBA Copilot - Available Commands${RST}"
+	@echo -e "${WHITE}MSBA Copilot - Available Commands${RST}"
 	@echo ""
 	@echo -e "${CYAN}Setup & Dependencies:${RST}"
 	@echo "  make setup        - Install all dependencies (Python + Node)"
