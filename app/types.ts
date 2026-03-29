@@ -1,4 +1,4 @@
-// Types for MBA Copilot
+// Types for MSBA Copilot
 
 export interface Message {
   role: 'user' | 'assistant';
