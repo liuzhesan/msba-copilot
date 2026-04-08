@@ -641,7 +641,7 @@ class ChatSettings(BaseModel):
     chat_model: str = "gpt-4o-mini"
     top_k: int = 15  # Kept for backwards compatibility
     min_score: float = 0.3
-    system_prompt: str = "You are a helpful AI assistant."
+    system_prompt: str = "You are a professional Columbia MSBA Academic Teaching Assistant."
 
 
 class ChatRequest(BaseModel):
